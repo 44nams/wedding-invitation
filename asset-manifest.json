@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79e1e0cf.css",
+    "main.js": "/static/js/main.c5a80640.js",
+    "static/js/496.cf873d78.chunk.js": "/static/js/496.cf873d78.chunk.js",
+    "static/media/hands.jpg": "/static/media/hands.e58b3727b0d36a0a119e.jpg",
+    "static/media/NotoSansKR-Regular.otf": "/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
+    "static/media/NanumMyeongjo-Regular.ttf": "/static/media/NanumMyeongjo-Regular.01893c39cd1a403ef0a5.ttf",
+    "static/media/french-stucco.png": "/static/media/french-stucco.70b4b399fc5e01a7094a.png",
+    "index.html": "/index.html",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.0b41dd52f7613d6b91b7e6e0d542fa02.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.e83f142c80834c55ca3f544eebaaca96.svg",
+    "main.79e1e0cf.css.map": "/static/css/main.79e1e0cf.css.map",
+    "main.c5a80640.js.map": "/static/js/main.c5a80640.js.map",
+    "496.cf873d78.chunk.js.map": "/static/js/496.cf873d78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79e1e0cf.css",
+    "static/js/main.c5a80640.js"
+  ]
+}
