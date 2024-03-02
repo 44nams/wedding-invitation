@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.79e1e0cf.css",
-    "main.js": "/static/js/main.b48306a1.js",
+    "main.js": "/static/js/main.d1a72020.js",
     "static/js/496.cf873d78.chunk.js": "/static/js/496.cf873d78.chunk.js",
     "static/media/NotoSansKR-Regular.otf": "/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
     "static/media/NanumMyeongjo-Regular.ttf": "/static/media/NanumMyeongjo-Regular.01893c39cd1a403ef0a5.ttf",
@@ -10,11 +10,11 @@
     "static/media/arrow-left.svg": "/static/media/arrow-left.76285d5f93b86eea4aae6a9590a2b866.svg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.c839f6e05c5514f4b2c731171a3aed54.svg",
     "main.79e1e0cf.css.map": "/static/css/main.79e1e0cf.css.map",
-    "main.b48306a1.js.map": "/static/js/main.b48306a1.js.map",
+    "main.d1a72020.js.map": "/static/js/main.d1a72020.js.map",
     "496.cf873d78.chunk.js.map": "/static/js/496.cf873d78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79e1e0cf.css",
-    "static/js/main.b48306a1.js"
+    "static/js/main.d1a72020.js"
   ]
 }
